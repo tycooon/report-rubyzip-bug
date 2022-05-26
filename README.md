@@ -1,6 +1,6 @@
 ```sh
 >  ruby -v
-ruby 3.1.1p18 (2022-02-18 revision 53f5fc4236) [arm64-darwin21]
+ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [arm64-darwin21]
 
 >  ruby test.rb
 /Users/tycooon/.rbenv/versions/3.1.1/lib/ruby/gems/3.1.0/gems/rubyzip-2.3.2/lib/zip/entry.rb:365:in `check_c_dir_entry_static_header_length': undefined method `bytesize' for nil:NilClass (NoMethodError)
